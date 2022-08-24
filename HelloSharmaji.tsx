@@ -1,10 +1,10 @@
 import React from 'react'
 import { View,Text,StyleSheet } from 'react-native'
 
-const HelloWorld = () => {
+const HelloShrmaji = () => {
   return (
         <View style={styles.Card}>
-            <Text>Hello World!</Text>
+            <Text>Hello Rohit Sharma!</Text>
         </View>
     )
 }
@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
         fontSize: 23,
         borderRadius: 10,
         borderWidth: 1,
-        borderColor: 'black'
+        borderColor: 'Grey'
     }
 })
 
