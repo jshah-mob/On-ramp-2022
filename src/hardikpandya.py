@@ -17,7 +17,7 @@ def bubble_sort(arr: list = []) -> None:
 
 
 
-print("Bubble sort working")
+print("Bubble sort working step by step\n")
 bubble_sort([3, 7, 4, 2, 1])
 
 
