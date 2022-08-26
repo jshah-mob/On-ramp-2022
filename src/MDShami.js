@@ -11,5 +11,5 @@ function prefix_sums(arr) {
   
   console.log(prefix_sums([1, 2, 3, 4, 5]));
   
-  console.log(prefix_sums([1, 2, -3, 4, 5]));
+ 
   
